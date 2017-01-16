@@ -9,8 +9,7 @@ The notebook is split into two sections:
 
 2D Linear Regression | 3D Multivariate Linear Regression 
 :---: | :---: 
-R<sup>2</sup>: 0.651237006724 | Score: 0.968933216107
-:---: | :---: 
+R<sup>2</sup> (Score):  0.651237006724 | R<sup>2</sup> (Score): 0.968933216107
 ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/2D_data.png) | ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/3D_data.png) 
 ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/2D_regression.png) | ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/3D_regression.png) 
 
