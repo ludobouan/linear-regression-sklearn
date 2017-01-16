@@ -1,5 +1,4 @@
 # linear-regression-sklearn
-# linear-regression-sklearn
 Submission for "How to Make a Prediction - Intro to Deep Learning #1' by Siraj Raval on YouTube
 
 ## Overview
