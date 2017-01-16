@@ -7,7 +7,9 @@ The notebook is split into two sections:
 * 3D multivariate linear regression on a climate change dataset [Year, CO2 emissions, Global temperature].
 
 2D Linear Regression | 3D Multivariate Linear Regression 
---- | --- | ---
+:---: | :---: 
+[$]R^2[$/]: 0.651237006724 | Score: 0.968933216107
+:---: | :---: 
 ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/2D_data.png) | ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/3D_data.png) 
 ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/2D_regression.png) | ![](https://github.com/ludobouan/linear-regression-sklearn/blob/master/data/3D_regression.png) 
 
