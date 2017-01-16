@@ -6,7 +6,8 @@ The notebook is split into two sections:
 * 2D linear regression on a sample dataset [X, Y]
 * 3D multivariate linear regression on a climate change dataset [Year, CO2 emissions, Global temperature].
 
-Because of the small amount of data, and the random 10% of data chosen for testing, the scores have high variance.
+Because of the small amount of data, and the random 10% of data chosen for testing, the scores have high variance.  
+
 2D Linear Regression | 3D Multivariate Linear Regression 
 :---: | :---: 
 R<sup>2</sup> (Score):  0.651237006724 | R<sup>2</sup> (Score): 0.968933216107
