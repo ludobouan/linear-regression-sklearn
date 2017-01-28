@@ -1,5 +1,6 @@
 # linear-regression-sklearn
-Submission for "How to Make a Prediction - Intro to Deep Learning #1' by Siraj Raval on YouTube
+2D and 3D multivariate regressing with sklearn applied to cimate change data
+Winner of Siraj Ravel's [coding challange](https://youtu.be/vOppzHpvTiQ?t=7m31s)
 
 ## Overview
 The notebook is split into two sections: 
