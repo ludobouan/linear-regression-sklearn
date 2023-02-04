@@ -1,5 +1,5 @@
 # linear-regression-sklearn
-2D and 3D multivariate regressing with sklearn applied to cimate change data  
+2D and 3D multivariate regressing with sklearn applied to climate change data  
 Winner of Siraj Ravel's [coding challange](https://youtu.be/vOppzHpvTiQ?t=7m31s)
 
 ## Overview
